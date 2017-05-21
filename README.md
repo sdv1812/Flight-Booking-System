@@ -1,4 +1,4 @@
-# Gamma Airlines Booking System - Crossover
+# Gamma Airlines Booking System
 
 To setup the project do the following: 
 1. Create the database using the the sql file db.sql present in the /sql/ directory
